@@ -1,0 +1,86 @@
+:host {
+    display: block;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+  }
+  
+  /* Estilos para los botones */
+  button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Estilos para el botón de suma */
+  .suma {
+    background-color: #3498db;
+    color: white;
+  }
+  
+  .suma:hover {
+    background-color: #2980b9;
+  }
+  
+  /* Estilos para el botón de resta */
+  .resta {
+    background-color: #e74c3c;
+    color: white;
+  }
+  
+  .resta:hover {
+    background-color: #c0392b;
+  }
+  
+  /* Estilos para el botón de división */
+  .division {
+    background-color: #2ecc71;
+    color: white;
+  }
+  
+  .division:hover {
+    background-color: #27ae60;
+  }
+  
+  /* Estilos para el botón de guardar resultado */
+  .guardar {
+    background-color: #f39c12;
+    color: white;
+  }
+  
+  .guardar:hover {
+    background-color: #d35400;
+  }
+  
+  .resultado {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .historial {
+    margin-top: 20px;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
