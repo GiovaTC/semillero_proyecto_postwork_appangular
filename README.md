@@ -1,5 +1,4 @@
 # semillero_proyecto_postwork_appangular
-Sesion01
-![EvidenciaFuncionamieto2](https://github.com/GiovaTC/semillero_proyecto_postwork_appangular/assets/90740161/b4d400f5-eff0-4795-b845-7bd673895e24)
+App Angular
 
-
+![EvidenciaFuncionamiento3](https://github.com/GiovaTC/semillero_proyecto_postwork_appangular/assets/90740161/fd5c49d6-bec8-4c21-bd4c-4c34d716a9bf)
